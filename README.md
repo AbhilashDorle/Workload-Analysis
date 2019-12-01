@@ -1,2 +1,8 @@
 # Workload-Analysis
-Three different workloads were analyzed to check the compatibilty between them
+
+We analyze three different traces, Google, Alibaba and Azure. ARIMA and LSTM were employed to obtain forecasting values. RMSE and MAPE were used as evaluation metrics
+
+# Team Members
+
+1. Atharva Joglekar
+2. Pranav Pandey
